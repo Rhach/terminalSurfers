@@ -1,6 +1,9 @@
 # Showdown
 
-Endless little contests between coloured dots, right in your terminal. Something to keep in the corner of your eye: there's always a stake, always something happening, and a winner every minute or so.
+Endless little contests between coloured dots, right in your terminal. Something to keep in the corner of your eye.
+
+
+
 
 ```
 node showdown.js
